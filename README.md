@@ -9,6 +9,8 @@
 
 - 👯 Open to collaborating on **Web app development projects**
 
+- 👨‍💻 All of my projects are available at [https://my-portfolio-prasanna.vercel.app](https://my-portfolio-prasanna.vercel.app)
+
 - 💬 Let's chat about tech, life, and everything in between! Reach me at **prasannabhat345@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
